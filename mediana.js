@@ -6,7 +6,7 @@ function calcularMediaAritmetica(lista) {
     );
     const promedioLista = sumaLista / lista.length;
     return promedioLista;
-  }
+}
   
 
 const lista1 = [
